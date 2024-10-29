@@ -1,0 +1,204 @@
+	h1 {
+		font-family: danfo;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	p {
+		font-family: Helvetica;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.video-title {
+		font-weight: bold;
+		font-size: 18px;
+		width: 45%;
+		line-height: 1.5;
+		margin-bottom: 5;
+	}
+	.video-stats {
+		font-size: 14px;
+		color: #606060;
+		margin-bottom: 20;
+	}
+	.video-author {
+		font-size: 14px;
+		color: #606060;
+		margin-bottom: 20px;
+	}
+	.video-description {
+		font-size: 18px;
+		color: #606060;
+		width: 55%;
+		line-height: 1.5;
+		margin-bottom: 100px;
+	}
+	.apple-text {
+		margin-bottom: 50px;
+		font-size: 14px;
+		background-color: #E2413D;
+		color: #ffffff;
+		text-align: center;
+		padding: 18px;
+	}
+	.shop-link {
+		padding-left: 18px;
+	}
+	.shop-link:hover {
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	h2 {
+		font-family: Tahoma;
+		margin-bottom: 0;
+	}
+	.b {
+		font-family: Arial;
+	}
+	.bsub {
+		font-family: Arial;
+		font-style: italic;
+		color: #ff0000;
+	}
+	.c-title {
+		font-family: Verdana;
+		margin-bottom: 0;
+	}
+	.c-sub {
+		font-family: Verdana;
+		color: #606060;
+		margin-bottom: 20px;
+	}
+	.c-text {
+		font-family: Verdana;
+		width: 40%;
+		margin-bottom: 15px;
+	}
+	.button-get-started {
+		background-color: #1c8200;
+		color: #ffffff;
+		padding: 10px 20px;
+		border: none;
+		border-radius: 5px;
+		font-family: Arial;
+		font-size: 16px;
+	}
+	.button-get-started:hover {
+		background-color: #1a6e00;
+	}
+	.button-get-started:active {
+		opacity: 0.8;
+		transform: translateY(1px);
+	}
+	.d-title {
+		font-family: Arial;
+		text-align: center;
+		margin-bottom: 10px;
+		align-items: center;
+		justify-content: center;
+		display: flex;
+	}
+	p {
+		font-family: Helvetica;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.new {
+		font-size: 14px;
+		color: #e28802;
+		font-weight: bold;
+		margin-bottom: 5px;
+		text-align: center;
+	}
+	.product-name {
+		font-size: 24px;
+		font-weight: bold;
+		margin-bottom: 5px;
+		text-align: center;
+	}
+	.product-slogan {
+		font-size: 48px;
+		font-weight: bold;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+	.product-price {
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.button-buy {
+		background-color: #0070c9;
+		color: #ffffff;
+		padding: 10px 20px;
+		border: none;
+		border-radius: 50px;
+		font-family: Helvetica;
+		font-size: 16px;
+		display: block;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.button-buy:hover {
+		background-color: #005a9e;
+	}
+	.button-buy:active {
+		opacity: 0.8;
+		transform: translateY(1px);
+	}
+	.stonks {
+		font-family: Arial;
+		text-align: left;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	.amount {
+		font-size: 24px;
+		font-weight: bold;
+		text-align: left;
+	}
+	.currency {
+		font-size: 14px;
+		color: #606060;
+		text-align: left;
+	}
+	.today-change {
+		font-size: 14px;
+		color: #1c8200;
+		text-align: left;
+	}
+	.all-change {
+		font-size: 14px;
+		color: #606060;
+		text-align: left;
+	}
+	.all-time-change {
+		font-size: 14px;
+		color: #ff0000;
+		text-align: left;
+	}
+	.tweet {
+		font-family: Arial;
+		margin-top: 0;
+		text-align: left;
+	}
+	.user-name {
+		font-weight: bold;
+		text-align: left;
+		margin-bottom: 10px;
+	}
+	.user {
+		font-weight: bold;
+		text-align: left;
+	}
+	.user-username {
+		color: #606060;
+		text-align: left;
+	}
+	.user-tweet {
+		color: #000000;
+		text-align: left;
+		margin-top: 10px;
+	}
+	.at-user {
+		color: #00b9ca;
+		text-align: left;
+	}
